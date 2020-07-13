@@ -52,6 +52,8 @@ filetype plugin indent on    " required
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Vim user interface
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set number
+
 " Set 7 lines to the cursor - when moving vertically using j/k
 set so=7
 
